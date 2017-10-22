@@ -1,0 +1,14 @@
+[
+	{
+		"code": "BE",
+		"value": 1024
+	},
+	{
+		"code": "ES",
+		"value": 256
+	},
+	{
+		"code": "UA",
+		"value": 512
+	}
+]
